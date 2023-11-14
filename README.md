@@ -1,5 +1,15 @@
 # VintageVault_98
 
+#### Before starting, you may need to install the Pygame library using the command:
+
+```http
+  pip install pygame
+```
+
+
+"Dino Jump" is a fast-paced endless runner game where you control a dinosaur. Jump over obstacles, survive as long as you can, and try to achieve the highest score. The game speeds up over time, and periodic color changes in obstacles add an extra challenge. Enjoy the simple yet addictive gameplay and see how far you can go!
+
+
 Old school _ Nostalgia
 
 Ah, 1998 – a vintage year in the world of programming, where lines of code danced in harmonious rhythms, and debugging felt more like a poetic quest than a technical challenge. Back then, it was a symphony of simplicity, a ballet of bits and bytes that waltzed through the golden age of computing.
