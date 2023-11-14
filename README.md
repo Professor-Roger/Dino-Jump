@@ -2,7 +2,7 @@
 
 #### Before starting, you may need to install the Pygame library using the command:
 
-```http
+```
   pip install pygame
 ```
 
